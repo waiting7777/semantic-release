@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/waiting7777/semantic-release/compare/v1.0.0...v1.1.0) (2023-03-13)
+
+
+### Features
+
+* **pencil:** add 'graphiteWidth' option ([d48b477](https://github.com/waiting7777/semantic-release/commit/d48b477949bc851aca60ef182f97d6637b809784))
+
 # 1.0.0 (2023-03-13)
 
 
