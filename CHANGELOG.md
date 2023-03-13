@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/waiting7777/semantic-release/compare/v1.1.0...v1.1.1) (2023-03-13)
+
+
+### Bug Fixes
+
+* typo ([ee5f8f0](https://github.com/waiting7777/semantic-release/commit/ee5f8f0a0f2eab0165cdfc03ed4143c35712d350))
+
 # [1.1.0](https://github.com/waiting7777/semantic-release/compare/v1.0.0...v1.1.0) (2023-03-13)
 
 
